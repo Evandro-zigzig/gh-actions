@@ -1,1 +1,2 @@
-    Testing Workflow from GitHub Actions (examples).
+    Testing Workflow from GitHub Actions.
+    Use cases.
